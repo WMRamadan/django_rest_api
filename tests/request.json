@@ -1,0 +1,6 @@
+{"description": "New Shipment",
+    "from_location": "Italy",
+    "to_location": "Tallinn",
+    "date_shipped": "2019-09-15T10:00:00Z",
+    "date_arrived": "2019-09-22T10:00:00Z"
+}
